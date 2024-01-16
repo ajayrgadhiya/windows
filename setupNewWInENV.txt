@@ -1,0 +1,11 @@
+disable securty
+download frm python.org and install python 
+install vs code
+
+create virtuel env using c:\>Python35\python -m venv c:\path\to\myenv
+activate venv using venv bat file
+install jupyter lab
+install xampp
+install chrome
+log in accounts github mail 
+
